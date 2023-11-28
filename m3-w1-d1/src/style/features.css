@@ -1,0 +1,13 @@
+.feature-section {
+    max-width: 1260px;
+    display: flex;
+    margin: 130px auto;
+    justify-content: center;
+    gap: 5rem;
+}
+
+.feature-section h3 {
+    font-size: 30px;
+    font-weight: 500;
+    margin: 25px 0 5px;
+}

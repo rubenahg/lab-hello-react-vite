@@ -1,0 +1,33 @@
+.hero-section {
+    max-width: 1260px;
+    width: 100%;
+    margin: auto;
+    background-color: #1f2535;
+    color: #fff;
+    padding: 50px 100px 120px;
+}
+
+.hero-section h2 {
+    font-size: 64px;
+    line-height: normal;
+    margin: 100px 0 0;
+}
+
+.menuIcon {
+    float: right;
+}
+
+.hero-section p {
+    font-weight: 300;
+    margin-bottom: 90px;
+}
+
+.awesomeButton {
+    background-color: #fff;
+    color: #1f2535;
+    padding: 20px 25px;
+    border-radius: 3px;
+    font-size: 18px;
+    font-weight: 600;
+    text-decoration: none;
+}
